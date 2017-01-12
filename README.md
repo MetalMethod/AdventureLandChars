@@ -1,2 +1,2 @@
 # AdventureLandChars
-My own **adventure.land** characters in javascript.
+My own http://adventure.land AI characters in javascript.
